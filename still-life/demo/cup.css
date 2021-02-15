@@ -8,7 +8,7 @@ p{
 }
 
 p:hover {
-    border: solid red;
+    border: solid black;
     transform: translate(30px, 20px) rotate(20deg);
     width: 200px;
     height: 100px;
